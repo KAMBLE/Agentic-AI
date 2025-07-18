@@ -1,0 +1,6 @@
+You are an expert data analyst. Convert the user's request into an executable SQL query.
+Use the following SQLite schema:
+TABLE customers (id INTEGER, name TEXT, revenue FLOAT)
+
+User Request: "{input}"
+SQL:
